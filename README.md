@@ -18,4 +18,4 @@ XOR, ROTATION, ADDICTION, NOT, SHA3-256 사용
 sha3 : kisa소스 https://seed.kisa.or.kr/kisa/Board/79/detailView.do
 
 class없애고 encrypt, decrypt만 남겨 단순화하기
-현재 작동하지만 ror에서 i=0부터시작해야할거 32부터하는것같은거 고치기
+현재 작동하지만 ror에서 i=0부터시작해야할거 32부터하는것같은거 고치기 귀찮음 rust버전 따로 만듬
